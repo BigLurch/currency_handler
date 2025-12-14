@@ -24,6 +24,7 @@ lab2-BigLurch/
     currencyhandler.py      # Core currency logic
     currency_log.json       # Log/output persisted as JSON
     readme.md               # This file
+````
 
 ### How to run
 1) Create and activate a virtual environment
